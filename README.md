@@ -2,7 +2,7 @@
 
 **Nova** is a sleek, responsive AI chatbot interface built using **React** and styled with **Tailwind CSS**. It integrates **Google Generative AI (Gemini API)** to provide real-time conversational responses.
 
-🔗 [Live Demo](https://your-live-link.netlify.app) <!-- Replace with actual deployed link -->
+🔗 [Live Demo](https://nova-ai-450.vercel.app/) <!-- Replace with actual deployed link -->
 
 ---
 
