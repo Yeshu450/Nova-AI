@@ -5,7 +5,7 @@ import { GoogleGenAI } from '@google/genai';
 function Nova() {
 	const [input, setInput] = useState('');
 	const [chatHistory, setChatHistory] = useState([]);
-	const [sidebarOpen, setSidebarOpen] = useState(true);
+	const [sidebarOpen, setSidebarOpen] = useState(false);
 
 	const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 	console.log('API Key Loaded');
